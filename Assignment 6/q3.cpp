@@ -1,3 +1,6 @@
+// Write a program to find size of
+// i. Doubly Linked List.
+// ii. Circular Linked List.
 #include <iostream>
 using namespace std;
 
