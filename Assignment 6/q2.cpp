@@ -1,3 +1,7 @@
+// Display all the node values in a circular linked list, repeating value of head node at the
+// end too. For example, if elements present in the circular linked list starting from head
+// are 20 → 100 → 40 → 80 → 60, then output should be displayed as 20 100 40 80 60
+// 20
 #include <iostream>
 using namespace std;
 
